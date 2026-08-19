@@ -15,7 +15,7 @@ A simple web-based **Expense Tracker** built using JavaScript. It allows users t
 A simple web-based **Quiz App** built using JavaScript. It contains **5 basic questions** that users can attempt one by one, Multiple-choice questionsAfter completing the quiz, the app displays the user's final score based on the number of correctly answered questions
 <br><br>
 ## Technologies Used
-<br>
+
 * HTML5<br>
 * CSS3<br>
 * JavaScript
